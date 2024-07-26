@@ -1,4 +1,4 @@
-# myapp
+# Device Info
 
 Flutter Project to get Device Info.
 
